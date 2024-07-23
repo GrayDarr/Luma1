@@ -5,7 +5,7 @@ from openai import OpenAI
 st.title("Luma")
 st.write(
     "This is a simple chatbot that uses OpenAI's GPT-3.5 model to generate responses. "
-    "Luma will do its best not to kill you."
+    "Luma will do its best not to kill you. "
     "Please refrain from over-using Luma"
 )
 
